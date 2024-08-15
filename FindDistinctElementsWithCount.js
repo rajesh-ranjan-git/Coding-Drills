@@ -1,5 +1,4 @@
 const arr = ["a", "b", "c", "c", "d", "e", "b", "f", "a", "c"];
-const temp = {};
 
 const res = arr.reduce(
   (prev, curr) =>
